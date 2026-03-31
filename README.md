@@ -1,1 +1,1 @@
-# it103-finals-project
+# **IT 103 Finals Project**
